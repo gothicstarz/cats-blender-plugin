@@ -417,7 +417,7 @@ Read the full changelog [here](https://github.com/michaeldegroot/cats-blender-pl
  - Automatic lower lid creation for eye tracking
  - Manual bone selection button for root bones
  - Full body tracking proportion adjustments
-
+ - if you need help mesage discord
 
 ## Feedback
 Do you love this plugin or have you found a bug?
